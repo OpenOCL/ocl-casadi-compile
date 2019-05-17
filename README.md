@@ -9,7 +9,7 @@ A README.txt is created to inform users about use and licenses.
 Deployments script requires curl.
 
 ```
-sh deploy_openocl_v3-41.sh
+sh deploy_openocl.sh
 ```
 
 # Software licenses
